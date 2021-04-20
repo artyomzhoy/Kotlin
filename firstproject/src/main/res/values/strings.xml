@@ -4,4 +4,8 @@
     <string name="buttonNext">Next</string>
     <string name="hint_your_name">Your Name</string>
     <string name="textView">Hello!</string>
+    <string name="radiobutton1">RadioButton</string>
+    <string name="radiobutton2">RadioButton</string>
+    <string name="textViewSecondScreen">Choose your country</string>
+    <string name="radiobutton3">RadioButton</string>
 </resources>
