@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="fieldName">Name</string>
+    <string name="buttonNext">Next</string>
+    <string name="hint_your_name">Your Name</string>
+    <string name="textView">Hello!</string>
+</resources>

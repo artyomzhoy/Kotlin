@@ -1,0 +1,4 @@
+include ':screen'
+include ':firstproject'
+include ':app'
+rootProject.name = "Test"
